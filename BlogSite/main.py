@@ -1,10 +1,10 @@
 from flask import Flask, render_template
 from post import Post
 import requests
-import secret
+import secrets
 
 # Hiding the api isn't really necessary since it's public but good for practice
-posts = requests.get(secret.api).json()
+posts = requests.get(secrets.BlogSite_API).json()
 post_objects = []
 for post in posts:
     post_obj = Post(post["id"], post["title"], post["subtitle"], post["body"])

@@ -47,7 +47,7 @@
       <excludeFolder url="file://$MODULE_DIR$/top100movies/venv/Lib" />
       <excludeFolder url="file://$MODULE_DIR$/top100movies/venv/Scripts" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (natoalfa)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
