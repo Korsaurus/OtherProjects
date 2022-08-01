@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/API practice/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/API practice/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/API practice/venv/share" />
+      <excludeFolder url="file://$MODULE_DIR$/BlogSite/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/BlogSite/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/BlogWithRestfulAPI/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/BlogWithRestfulAPI/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/BSoup practice/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/BSoup practice/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Coffee&amp;Wifi/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Coffee&amp;Wifi/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/CoffeeMachine/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/CoffeeMachine/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/CollegeDataStuff/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/CollegeDataStuff/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/EmailSending/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/EmailSending/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/helloFlask/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/helloFlask/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/My_Blog/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/My_Blog/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/MyBusinessCard/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/MyBusinessCard/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/MyTop10Movies/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/MyTop10Movies/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/MyTop10Movies/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/natoalfa/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/natoalfa/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/PasswordManager/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/PasswordManager/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/pong/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/pong/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/RESTFUL API Practice/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/RESTFUL API Practice/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/RESTFUL API Practice/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/SpeedChecker/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/SpeedChecker/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/SQLProject/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/SQLProject/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/SQLProject/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/StatesGame/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/StatesGame/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/top100movies/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/top100movies/venv/Scripts" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
